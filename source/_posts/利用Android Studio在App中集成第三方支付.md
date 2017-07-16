@@ -157,9 +157,7 @@ class PaymentTask extends AsyncTask<PaymentRequest, Void, String> {
 参考代码请[点击这里](https://github.com/funaihui/pay)
 
 ## 结束语
-&emsp;&emsp;<font color = "green" size = "5">转载请注明出处：[www.wizardev.com](www.wizardev.com)</font>
-<center>欢迎大家关注我的微信公众号</br>
-<img width="300px" height="300px"  src="http://www.wizardev.com/uploads/wechat-qcode.jpg"/><center>
+&emsp;&emsp;<font color = "green" size = "5">转载请注明出处：[www.wizardev.com](www.wizardev.com)<font>
 
 
 
