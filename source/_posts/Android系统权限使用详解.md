@@ -1,8 +1,8 @@
 ---
 title: Android系统权限使用详解
 date: 2016-12-24 18:20:24
-tags: android permission
-categories: android
+tags: Android permission
+categories: Android
 ---
 ![](http://i.imgur.com/paKFeCP.jpg)
 &emsp;&emsp;总有一些坚持会成为别人眼里的蹉跎，那并不意味着你有错，只需从容过好你的生活。
@@ -103,4 +103,4 @@ categories: android
 &emsp;&emsp;在Android6.0以上请求危险权限时，我们不一定要在onRequestPermissionsResult()方法中做操作，只要我们在当前应用获取到了权限，就可以在任地方进行使用。因此，我们可以在Activity的onCreate()方法中申请权限获取，获取成功后，你的应用可以不必只在onRequestPermissionsResult()方法中执行需要权限的操作。
 ## 后记 ##
 &emsp;&emsp;在系统权限上踩了不少坑，所以在这里进行一些总结。提醒大家遇到问题一定要去仔细阅读官方文档，因为好多你遇到的问题里面都有解释。
-<font color=#d2691e size = 5>转载请注明出处：www.wizardev.com </font>
+<font color=#d2691e size = 5>转载请注明出处：[www.wizardev.com](http://www.wizardev.com) </font>

@@ -1,6 +1,7 @@
 ---
 title: 简介
 date: 2017-07-09 17:49:37
+comments: false
 type: "about"
 ---
 
